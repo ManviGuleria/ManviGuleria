@@ -118,15 +118,22 @@ Currently working on cloud-native tooling & backend systems projects.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By The Numbers
 
 <div align="center">
 
-![Manvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviGuleria&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117&count_private=true)
+| 🔥 | 💻 | ⭐ | 🏆 |
+|:---:|:---:|:---:|:---:|
+| **57** | **300+** | **4★** | **Top** |
+| GitHub Contributions | LeetCode Problems | HackerRank (Java & C++) | Communicator |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManviGuleria&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117&langs_count=6)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ManviGuleria&theme=github-dark-blue&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+---
+
+## 🗺️ Contribution Map
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManviGuleria&theme=react-dark&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF)
 
 </div>
 
