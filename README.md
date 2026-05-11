@@ -51,6 +51,7 @@ manvi = {
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
 ![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00D9FF)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=00D9FF)
 
 **Cloud & Infra**
 
@@ -121,9 +122,9 @@ Currently working on cloud-native tooling & backend systems projects.
 
 <div align="center">
 
-![Manvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviGuleria&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117)
+![Manvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviGuleria&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManviGuleria&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManviGuleria&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ManviGuleria&theme=github-dark-blue&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
