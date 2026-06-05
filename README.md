@@ -11,7 +11,7 @@
 
 ### `> Backend Engineer · Data Pipelines · Cloud Infrastructure`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Former+SWE+Intern+%40+Microsoft;Ex+Backend+Data+Intern+%40+Blinkit;Building+scalable+systems+%2B+data+pipelines;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Former+SWE+Intern+%40+Microsoft;Ex+Backend+Developer+Intern+%40+Blinkit;Building+scalable+systems+%2B+data+pipelines;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -59,6 +59,7 @@ manvi = {
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00D9FF)
 ![Airflow](https://img.shields.io/badge/Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=00D9FF)
 ![Spark](https://img.shields.io/badge/Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=00D9FF)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=00D9FF)
 
 **Data & Analytics**
 
@@ -89,10 +90,10 @@ AI-powered chatbot handling **200+ concurrent sessions** with real-time response
 </td>
 <td width="50%">
 
-### 🗺️ Maze Solver
-Graph-based pathfinding visualizer using DFS & BFS. Reduced path calculation time by **40%**.
+### 🎓 Edu Hub
+AI-powered educational platform with quizzes, analytics, and personalized learning using OpenAI APIs. Implemented JWT authentication, REST APIs, and real-time performance tracking.
 
-`HTML` `CSS` `JavaScript` `DSA`
+`React` `Node.js` `MongoDB` `OpenAI API` `JavaScript`
 
 </td>
 </tr>
@@ -141,6 +142,7 @@ Currently working on cloud-native tooling & backend systems projects.
 
 ## 🏆 Achievements
 
+- 📄 Research paper on **Edu Hub** accepted at **2 academic conferences**  
 - 🥈 **Smart India Hackathon 2024** — Semi-Finalist
 - ⭐ **4-star** ratings in Java & C++ on HackerRank  
 - 💡 Solved **300+** problems on LeetCode
