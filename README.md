@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
 ███╗   ███╗ █████╗ ███╗   ██╗██╗   ██╗██╗
 ████╗ ████║██╔══██╗████╗  ██║██║   ██║██║
 ██╔████╔██║███████║██╔██╗ ██║██║   ██║██║
@@ -11,18 +11,16 @@
 
 ### `> Backend Engineer · Data Pipelines · Cloud Infrastructure`
 
-<p align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manviguleria/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManviGuleria)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manviguleria317/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manviguleria317@gmail.com)
 
-<br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Former+SWE+Intern+%40+Microsoft;Ex+Backend+Developer+Intern+%40+Blinkit;Building+scalable+systems+%2B+data+pipelines;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 ---
 
