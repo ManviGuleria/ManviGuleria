@@ -151,7 +151,7 @@ Currently working on cloud-native tooling & backend systems projects.
 - 📄 Research paper on **Edu Hub** accepted at **2 academic conferences**  
 - 🥈 **Smart India Hackathon 2024** — Semi-Finalist
 - ⭐ **4-star** ratings in Java & C++ on HackerRank  
-- 💡 Solved **300+** problems on LeetCode
+- 💡 Solved **400+** problems on LeetCode
 - 🗣️ Top Performer — Communication Skills Leaderboard
 
 ---
