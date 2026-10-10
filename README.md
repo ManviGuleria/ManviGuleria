@@ -58,7 +58,6 @@ manvi = {
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
 ![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00D9FF)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=00D9FF)
 
 **Cloud & Infra**
 
